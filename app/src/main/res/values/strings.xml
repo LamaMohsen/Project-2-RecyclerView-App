@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Project-2-RecyclerView-App</string>
+    <string name="app_name">Home Workout</string>
+    <string name="app1">Back</string>
+    <string name="app2">Abs</string>
+    <string name="app3">Biceps</string>
+    <string name="app4">Calf</string>
+    <string name="app5">Chest</string>
+    <string name="app6">Leg</string>
+    <string name="app7">Forearms</string>
+
 </resources>
